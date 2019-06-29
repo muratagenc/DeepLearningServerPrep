@@ -123,7 +123,7 @@ root password</font></p>
 -i</font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><font face="FreeMono, monospace">passwd</font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><font face="FreeMono, monospace">&lt;type
-new password twice&gt; 99KekloK99K*</font></p>
+new password twice&gt; </font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
 
 </p>
