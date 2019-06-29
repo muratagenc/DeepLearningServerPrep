@@ -22,8 +22,7 @@ a Deep Learning Server on Ubuntu 18.04</font></p>
 updated: 06/28/2019</font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><font face="FreeMono, monospace">murat
 genc</font></p>
-<p style="margin-bottom: 0in; line-height: 100%"><font face="FreeMono, monospace">muratagenc@gmail.com
-</font>
+<p style="margin-bottom: 0in; line-height: 100%">
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><font face="FreeMono, monospace">**************************************************************</font></p>
 <p style="margin-bottom: 0in; line-height: 100%"><br/>
